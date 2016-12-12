@@ -1,0 +1,31 @@
+{
+    "name": "blackflysolutions/omnipay-beanstream",
+    "type": "library",
+    "description": "Omnipay payment processing library for Beanstream",
+    "keywords": [
+        "beanstream",
+        "gateway",
+        "merchant",
+        "omnipay",
+        "pay",
+        "payment",
+        "purchase"
+    ],
+    "homepage": "https://github.com/blackflysolutions/omnipay-beanstream",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alan Dixon",
+            "email": "info@blackflysolutions.ca"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Omnipay\\Beanstream\\" : "src/" }
+    },
+    "require": {
+        "omnipay/common": "~2.0"
+    },
+    "require-dev": {
+        "omnipay/tests": "~2.0"
+    }
+}
