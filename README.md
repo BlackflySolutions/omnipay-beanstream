@@ -2,7 +2,7 @@
 
 **Beanstream driver for the Omnipay PHP payment processing library**
 
-[![Build Status](https://travis-ci.org/blackflysolutions/omnipay-beanstream.svg?branch=master)](https://travis-ci.org/blackflysolutions/omnipay-beanstream)
+[![Build Status](https://travis-ci.org/BlackflySolutions/omnipay-beanstream.svg?branch=master)](https://travis-ci.org/BlackflySolutions/omnipay-beanstream)
 
 [Omnipay](https://github.com/thephpleague/omnipay) is a framework agnostic, multi-gateway payment
 processing library for PHP 5.3+. This package implements Beanstream support for Omnipay.
